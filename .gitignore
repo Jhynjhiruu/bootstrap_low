@@ -1,0 +1,9 @@
+.vscode/
+
+build/
+lib/*.a
+
+*.app
+
+*.txt
+!lib/*.txt
